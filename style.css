@@ -706,7 +706,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("history.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("pexelsanjana.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
@@ -1577,7 +1577,7 @@ section {
 
 
 .wow {
-  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("pexelsanjana.jpg") fixed center center;
+  background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("pexels-anni-roenka.jpg") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
